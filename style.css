@@ -1,0 +1,28 @@
+html{
+    font-size: 16px;
+    text-align: center;
+    background-color: gainsboro;
+    font-family: monospace;
+}
+                    /* TABLE ONE */
+/* .title-page{
+
+} */
+.table-1-title, .table-2-title
+{
+    color: rebeccapurple;
+}
+.table-1, .table-2{
+    border: blueviolet solid 2px;
+    margin: 0 auto;
+}
+.table-header-1, .table-header-2{
+    background-color: violet;
+}
+td{
+
+    border-top: blueviolet solid 1px ;
+}
+.tag{
+    background-color: beige;
+}
